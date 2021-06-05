@@ -2,7 +2,7 @@
 
 
 clear
-type powercord.txt
+echo 'Powercord v1 Windows Installer'
 
 
 if (Get-Item -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Uninstall\DiscordCanary' -ErrorAction SilentlyContinue) {

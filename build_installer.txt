@@ -1,0 +1,2 @@
+v2: ps2exe .\Powercord-v2-Install.ps1 .\pc-v2installer.exe -iconFile 'plug.ico' -title 'A One-click Powercord v2 Installer' -version '2.0' -description 'A One-click Powercord v2 Installer' -product 'Powercord v2 Installer'
+v1: ps2exe .\Powercord-v1-Install.ps1 .\pc-v1installer.exe -iconFile 'plug_v1.ico' -title 'A One-click Powercord v1 Installer' -version '1.0' -description 'A One-click Powercord v1 Installer' -product 'Powercord v1 Installer'

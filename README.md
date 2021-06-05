@@ -1,2 +1,2 @@
-# Powercord Installer
-[Download it here](https://github.com/kckarnige/PCInstall/archive/refs/heads/main.zip)
+## Powercord Installer for Windows
+### Built with [PS2EXE](https://github.com/MScholtes/PS2EXE)
